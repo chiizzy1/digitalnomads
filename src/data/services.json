@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Branding",
+      "description": "Our creative arts programs encompass visual arts, music, drama, and dance, encouraging our students to explore their artistic talents and embrace their imagination.",
+      "list": ["Identity", "Voice", "positioning", "Competitor Farm"],
+      "icon": "/service-icon1.png",
+      "cardBgImg": "/service-card-bg1.jpg",
+      "contentImage": "/woman.png",
+      "content": [
+        {
+          "title": "Partnership Ecosystem",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": []
+        },
+        {
+          "title": "Analysises of Business",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        },
+        {
+          "title": "Benefit of Service",
+          "details": "No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "Our creative arts programs encompass visual arts, music, drama, and dance, encouraging our students to explore their artistic talents and embrace their imagination.",
+      "list": ["Identity", "Voice", "positioning", "Competitor Farm"],
+      "icon": "/service-icon1.png",
+      "cardBgImg": "/service-card-bg1.jpg",
+      "contentImage": "/woman.png",
+      "content": [
+        {
+          "title": "Partnership Ecosystem",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": []
+        },
+        {
+          "title": "Analysises of Business",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        },
+        {
+          "title": "Benefit of Service",
+          "details": "No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Branding",
+      "description": "Our creative arts programs encompass visual arts, music, drama, and dance, encouraging our students to explore their artistic talents and embrace their imagination.",
+      "list": ["Identity", "Voice", "positioning", "Competitor Farm"],
+      "icon": "/service-icon1.png",
+      "cardBgImg": "/service-card-bg1.jpg",
+      "contentImage": "/woman.png",
+      "content": [
+        {
+          "title": "Partnership Ecosystem",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": []
+        },
+        {
+          "title": "Analysises of Business",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        },
+        {
+          "title": "Benefit of Service",
+          "details": "No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Branding",
+      "description": "Our creative arts programs encompass visual arts, music, drama, and dance, encouraging our students to explore their artistic talents and embrace their imagination.",
+      "list": ["Identity", "Voice", "positioning", "Competitor Farm"],
+      "icon": "/service-icon1.png",
+      "cardBgImg": "/service-card-bg1.jpg",
+      "contentImage": "/woman.png",
+      "content": [
+        {
+          "title": "Partnership Ecosystem",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": []
+        },
+        {
+          "title": "Analysises of Business",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        },
+        {
+          "title": "Benefit of Service",
+          "details": "No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Branding",
+      "description": "Our creative arts programs encompass visual arts, music, drama, and dance, encouraging our students to explore their artistic talents and embrace their imagination.",
+      "list": ["Identity", "Voice", "positioning", "Competitor Farm"],
+      "icon": "/service-icon1.png",
+      "cardBgImg": "/service-card-bg1.jpg",
+      "contentImage": "/woman.png",
+      "content": [
+        {
+          "title": "Partnership Ecosystem",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": []
+        },
+        {
+          "title": "Analysises of Business",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        },
+        {
+          "title": "Benefit of Service",
+          "details": "No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Branding",
+      "description": "Our creative arts programs encompass visual arts, music, drama, and dance, encouraging our students to explore their artistic talents and embrace their imagination.",
+      "list": ["Identity", "Voice", "positioning", "Competitor Farm"],
+      "icon": "/service-icon1.png",
+      "cardBgImg": "/service-card-bg1.jpg",
+      "contentImage": "/woman.png",
+      "content": [
+        {
+          "title": "Partnership Ecosystem",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": []
+        },
+        {
+          "title": "Analysises of Business",
+          "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        },
+        {
+          "title": "Benefit of Service",
+          "details": "No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+          "list": [
+            { "li": "Cost of supplies and equipment point" },
+            { "li": "Change the volume of expected of contact" },
+            { "li": "Bibend auctor nisi elit volume are so beguiled" },
+            { "li": "Quickly maximize timely deliverables" }
+          ]
+        }
+      ]
+    }
+  ]
+}

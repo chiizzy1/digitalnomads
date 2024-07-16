@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "image": "/products1.png",
+      "icon": "/startp.png",
+      "title": "Edmo1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+      "list": [
+        { "key": "industry", "value": "React" },
+        { "key": "category", "value": "StartUp" },
+        { "key": "url", "value": "www.example.com" }
+      ],
+      "content": [
+        {
+          "title": "THE CHALLENGE",
+          "intro": "So, What Exactly is Positioning and Why Does It Matter?",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {},
+          "images": [],
+          "list": [
+            { "li": "a console" },
+            { "li": "Two Joy-Con controllers that are detachable" },
+            {
+              "li": "A grip that enables you to combine them into a single gamepad for play on the"
+            },
+            {
+              "li": "Two straps for turning the Joy-Cons into individual controllers"
+            },
+            {
+              "li": "A dock which you can use to connect your console to the television for traditional gameplay"
+            }
+          ]
+        },
+        {
+          "title": "THE SOLUTION",
+          "intro": "How We Defined Our Positioning: a Step-by-Step Overview",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {
+            "quote": "It is a long established fact that a reader will be distracted by the readable when content of a page when looking at its layout.",
+            "author": "Tom Cruise"
+          },
+          "images": [],
+          "list": [
+            { "li": "a console" },
+            { "li": "Two Joy-Con controllers that are detachable" },
+            {
+              "li": "A grip that enables you to combine them into a single gamepad for play on the"
+            },
+            {
+              "li": "Two straps for turning the Joy-Cons into individual controllers"
+            },
+            {
+              "li": "A dock which you can use to connect your console to the television for traditional gameplay"
+            }
+          ]
+        },
+        {
+          "title": "THE RESULT",
+          "intro": "When Content Of a Page When Looking at Its Layout",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {
+            "quote": "It is a long established fact that a reader will be distracted by the readable when content of a page when looking at its layout.",
+            "author": "Tom Cruise"
+          },
+          "list": [],
+          "images": [
+            "/service-card-bg1.jpg",
+            "/service-card-bg1.jpg",
+            "/service-card-bg1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "/products1.png",
+      "icon": "/edmo.png",
+      "title": "Edmo2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+      "list": [
+        { "key": "industry", "value": "React" },
+        { "key": "category", "value": "StartUp" },
+        { "key": "url", "value": "www.example.com" }
+      ],
+      "content": [
+        {
+          "title": "THE CHALLENGE",
+          "intro": "So, What Exactly is Positioning and Why Does It Matter?",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {},
+          "images": [],
+          "list": [
+            { "li": "a console" },
+            { "li": "Two Joy-Con controllers that are detachable" },
+            {
+              "li": "A grip that enables you to combine them into a single gamepad for play on the"
+            },
+            {
+              "li": "Two straps for turning the Joy-Cons into individual controllers"
+            },
+            {
+              "li": "A dock which you can use to connect your console to the television for traditional gameplay"
+            }
+          ]
+        },
+        {
+          "title": "THE SOLUTION",
+          "intro": "How We Defined Our Positioning: a Step-by-Step Overview",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {
+            "quote": "It is a long established fact that a reader will be distracted by the readable when content of a page when looking at its layout.",
+            "author": "Tom Cruise"
+          },
+          "images": [],
+          "list": [
+            { "li": "a console" },
+            { "li": "Two Joy-Con controllers that are detachable" },
+            {
+              "li": "A grip that enables you to combine them into a single gamepad for play on the"
+            },
+            {
+              "li": "Two straps for turning the Joy-Cons into individual controllers"
+            },
+            {
+              "li": "A dock which you can use to connect your console to the television for traditional gameplay"
+            }
+          ]
+        },
+        {
+          "title": "THE RESULT",
+          "intro": "When Content Of a Page When Looking at Its Layout",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {
+            "quote": "It is a long established fact that a reader will be distracted by the readable when content of a page when looking at its layout.",
+            "author": "Tom Cruise"
+          },
+          "list": [],
+          "images": [
+            "/service-card-bg1.jpg",
+            "/service-card-bg1.jpg",
+            "/service-card-bg1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "/products1.png",
+      "icon": "/elan.png",
+      "title": "Edmo3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+      "list": [
+        { "key": "industry", "value": "React" },
+        { "key": "category", "value": "StartUp" },
+        { "key": "url", "value": "www.example.com" }
+      ],
+      "content": [
+        {
+          "title": "THE CHALLENGE",
+          "intro": "So, What Exactly is Positioning and Why Does It Matter?",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {},
+          "images": [],
+          "list": [
+            { "li": "a console" },
+            { "li": "Two Joy-Con controllers that are detachable" },
+            {
+              "li": "A grip that enables you to combine them into a single gamepad for play on the"
+            },
+            {
+              "li": "Two straps for turning the Joy-Cons into individual controllers"
+            },
+            {
+              "li": "A dock which you can use to connect your console to the television for traditional gameplay"
+            }
+          ]
+        },
+        {
+          "title": "THE SOLUTION",
+          "intro": "How We Defined Our Positioning: a Step-by-Step Overview",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {
+            "quote": "It is a long established fact that a reader will be distracted by the readable when content of a page when looking at its layout.",
+            "author": "Tom Cruise"
+          },
+          "images": [],
+          "list": [
+            { "li": "a console" },
+            { "li": "Two Joy-Con controllers that are detachable" },
+            {
+              "li": "A grip that enables you to combine them into a single gamepad for play on the"
+            },
+            {
+              "li": "Two straps for turning the Joy-Cons into individual controllers"
+            },
+            {
+              "li": "A dock which you can use to connect your console to the television for traditional gameplay"
+            }
+          ]
+        },
+        {
+          "title": "THE RESULT",
+          "intro": "When Content Of a Page When Looking at Its Layout",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+          "quote": {
+            "quote": "It is a long established fact that a reader will be distracted by the readable when content of a page when looking at its layout.",
+            "author": "Tom Cruise"
+          },
+          "list": [],
+          "images": [
+            "/service-card-bg1.jpg",
+            "/service-card-bg1.jpg",
+            "/service-card-bg1.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
