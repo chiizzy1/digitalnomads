@@ -27,26 +27,14 @@ const ContactForm: FC<ContactFormProps> = ({}) => {
   const phoneRegExp = /^[0-9]{9,15}$/;
 
   const contactFormSchema = z.object({
-    name: z
-      .string()
-      .min(1, "Name is Required")
-      .min(2, "Name is too short")
-      .max(50, "Name is too long"),
+    name: z.string().min(1, "Name is Required").min(2, "Name is too short").max(50, "Name is too long"),
     email: z.string().min(1, "Email is Required").email("Invalid email"),
     phone: z
       .string()
       .min(1, "Phone Number is Required")
       .refine((value) => phoneRegExp.test(value), "Invalid phone number"),
-    subject: z
-      .string()
-      .min(1, "Subject is Required")
-      .min(5, "Subject is too short")
-      .max(100, "Subject is Too long"),
-    message: z
-      .string()
-      .min(1, "Message is Required")
-      .min(10, "Message is too short")
-      .max(500, "Message is too long"),
+    subject: z.string().min(1, "Subject is Required").min(5, "Subject is too short").max(100, "Subject is Too long"),
+    message: z.string().min(1, "Message is Required").min(10, "Message is too short").max(500, "Message is too long"),
   });
 
   const resolver = zodResolver(contactFormSchema);
@@ -56,24 +44,8 @@ const ContactForm: FC<ContactFormProps> = ({}) => {
     formState: { errors },
   } = useForm<FormData>({ resolver });
 
-  const publicKey = process.env.NEXT_PUBLIC_KEY;
-  const serviceId = process.env.NEXT_PUBLIC_SERVICE_ID;
-  const templateId = process.env.NEXT_PUBLIC_TEMPLATE_ID;
-
   const onSubmit = (data: FormData, e: any) => {
-    e.preventDefault();
-
-    emailjs
-      .sendForm(`${serviceId}`, `${templateId}`, e.target, `${publicKey}`)
-      .then(
-        (result) => {
-          toast.success("Successfully submitted!!");
-          push("/");
-        },
-        (error) => {
-          toast.error("Error while submitting, please try again!!");
-        }
-      );
+    console.log(data);
   };
 
   return (
@@ -86,33 +58,18 @@ const ContactForm: FC<ContactFormProps> = ({}) => {
                 Get In Touch!
               </SmallHeading>
 
-              <Paragraph className="text-center leading-loose">
-                Contact us with your details & ready to start with us
-              </Paragraph>
+              <Paragraph className="text-center leading-loose">Contact us with your details & ready to start with us</Paragraph>
             </div>
           </div>
 
-          <div
-            className="w-full contact-form"
-            data-aos="zoom-in"
-            data-aos-delay="150"
-            data-aos-once="true"
-          >
+          <div className="w-full contact-form" data-aos="zoom-in" data-aos-delay="150" data-aos-once="true">
             <form onSubmit={handleSubmit(onSubmit)}>
               <div className="grid  grid-cols-12 gap-6 w-full">
                 <div className="form-group col-span-12 sm:col-span-6 flex flex-col">
                   <label>Name *</label>
-                  <input
-                    type="text"
-                    placeholder="E.g Jon Doe"
-                    className="form-control"
-                    {...register("name")}
-                    name="name"
-                  />
+                  <input type="text" placeholder="E.g Jon Doe" className="form-control" {...register("name")} name="name" />
                   {errors.name && typeof errors.name.message === "string" && (
-                    <p className="text-red-500 text-sm mt-1">
-                      {errors.name.message}
-                    </p>
+                    <p className="text-red-500 text-sm mt-1">{errors.name.message}</p>
                   )}
                 </div>
                 <div className="form-group  col-span-12 sm:col-span-6 flex flex-col">
@@ -125,9 +82,7 @@ const ContactForm: FC<ContactFormProps> = ({}) => {
                     name="email"
                   />
                   {errors.email && typeof errors.email.message === "string" && (
-                    <p className="text-red-500 text-sm mt-1">
-                      {errors.email.message}
-                    </p>
+                    <p className="text-red-500 text-sm mt-1">{errors.email.message}</p>
                   )}
                 </div>
                 <div className="form-group  col-span-12 sm:col-span-6 flex flex-col">
@@ -140,9 +95,7 @@ const ContactForm: FC<ContactFormProps> = ({}) => {
                     name="phone"
                   />
                   {errors.phone && typeof errors.phone.message === "string" && (
-                    <p className="text-red-500 text-sm mt-1">
-                      {errors.phone.message}
-                    </p>
+                    <p className="text-red-500 text-sm mt-1">{errors.phone.message}</p>
                   )}
                 </div>
                 <div className="form-group  col-span-12 sm:col-span-6 flex flex-col">
@@ -154,12 +107,9 @@ const ContactForm: FC<ContactFormProps> = ({}) => {
                     {...register("subject")}
                     name="subject"
                   />
-                  {errors.subject &&
-                    typeof errors.subject.message === "string" && (
-                      <p className="text-red-500 text-sm mt-1">
-                        {errors.subject.message}
-                      </p>
-                    )}
+                  {errors.subject && typeof errors.subject.message === "string" && (
+                    <p className="text-red-500 text-sm mt-1">{errors.subject.message}</p>
+                  )}
                 </div>
                 <div className="col-span-12 flex flex-col form-group">
                   <label>Message *</label>
@@ -169,12 +119,9 @@ const ContactForm: FC<ContactFormProps> = ({}) => {
                     {...register("message")}
                     name="message"
                   />
-                  {errors.message &&
-                    typeof errors.message.message === "string" && (
-                      <p className="text-red-500 text-sm mt-1">
-                        {errors.message.message}
-                      </p>
-                    )}
+                  {errors.message && typeof errors.message.message === "string" && (
+                    <p className="text-red-500 text-sm mt-1">{errors.message.message}</p>
+                  )}
                 </div>
               </div>
               <MainButton text="Send Message" />
